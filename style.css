@@ -1,0 +1,62 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.nav {
+    width: auto;
+    margin: 0 auto;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav li {
+    float: left;
+    padding-left: 0px;
+}
+
+.nav a {
+    display: block;
+    width: 110px;
+    float: none;
+    position: relative;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+    background-color: whitesmoke;
+    color: black;
+    letter-spacing: 3px;
+}
+
+.nav a:hover {
+    background-color:black;
+    color: white;
+}
+
+.nav .acurrent {
+    background-color: black;
+    color: white;
+}
+.head {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.head h1 {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 20px;
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+
+.main {
+    margin-top: 50px;
+    display: block;
+    width: auto;
+    border: solid 2px black;
+}
