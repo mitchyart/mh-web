@@ -1,4 +1,4 @@
 # mitchyart
- Source for the redesign of my personal website: https://mitchy.art.
+ Source for my personal website: https://mitchy.art.
 
- Under construction.
+ Feel free to rework this code for your personal needs.
